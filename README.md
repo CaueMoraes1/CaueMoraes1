@@ -28,4 +28,4 @@ Desenvolvida com Spring Boot no back-end e Vue.js no front-end, a plataforma per
 
 - 📧 **E-mail:** [cauemor@gmail.com](mailto:cauemor@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)  
-- 💼 **Portfólio:** [meusite.com](https://meusite.com)  
+
