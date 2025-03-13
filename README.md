@@ -9,7 +9,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias e ferramentas que tenho trabalhado:
 
-- **Linguagens de Programação:** Java, Python, JavaScript, Ruby
+- **Linguagens de Programação:** Java, Python, JavaScript, Ruby, c++
 - **Front-end:** HTML, CSS, Vue  
 - **Back-end:** Spring, Rails  
 - **Bancos de Dados:** MySQL, PostgreSQL  
