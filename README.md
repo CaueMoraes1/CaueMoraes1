@@ -2,7 +2,6 @@
 ### 🚀 Sobre Mim
 🎓 Estudante de **Engenharia de Software** na **Universidade Federal de Mato Grosso do Sul (UFMS)**.  
 💻 Apaixonado por **desenvolvimento de software**, **resolução de problemas** e **tecnologias inovadoras**.  
-🌱 Atualmente estou aprendendo e me aprofundando em **[tecnologias que você está estudando, ex.: Java, Python, React, Node.js, etc.]**.  
 🔍 Sempre em busca de **novos desafios** e **oportunidades** para aprender e crescer na área de tecnologia.  
 
 
