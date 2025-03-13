@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**CaueMoraes1/CaueMoraes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim
+🎓 Estudante de **Engenharia de Software** na **Universidade Federal de Mato Grosso do Sul (UFMS)**.  
+💻 Apaixonado por **desenvolvimento de software**, **resolução de problemas** e **tecnologias inovadoras**.  
+🌱 Atualmente estou aprendendo e me aprofundando em **[tecnologias que você está estudando, ex.: Java, Python, React, Node.js, etc.]**.  
+🔍 Sempre em busca de **novos desafios** e **oportunidades** para aprender e crescer na área de tecnologia.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias e ferramentas que tenho trabalhado:
+
+- **Linguagens de Programação:** Java, Python, JavaScript, Ruby
+- **Front-end:** HTML, CSS, Vue  
+- **Back-end:** Spring, Rails  
+- **Bancos de Dados:** MySQL, PostgreSQL  
+- **Ferramentas:** Git, Docker, VS Code, Astah  
+- **Metodologias:** Scrum
+
+
+### 🚀 Projetos em Destaque
+Aqui estão alguns dos projetos que desenvolvi:
+
+- **[FacilitaAi]((https://github.com/PET-Sistemas/facilita-ai-project/tree/main))**  
+ O facilitaAi é uma plataforma web que conecta usuários que precisam de serviços residenciais (como encanamento, elétrica, limpeza, etc.) a fornecedores cadastrados no sistema. O objetivo é simplificar a busca por profissionais qualificados, oferecendo uma experiência intuitiva e eficiente para ambos os lados.
+
+Desenvolvida com Spring Boot no back-end e Vue.js no front-end, a plataforma permite que fornecedores se cadastrem, listem seus serviços e recebam solicitações, enquanto os usuários podem buscar, avaliar e contratar profissionais de forma rápida e segura.
+
+
+- 📧 **E-mail:** [cauemor@gmail.com](mailto:cauemor@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)  
+- 💼 **Portfólio:** [meusite.com](https://meusite.com)  
