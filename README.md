@@ -1,7 +1,6 @@
 
 ### 🚀 Sobre Mim
 🎓 Estudante de **Engenharia de Software** na **Universidade Federal de Mato Grosso do Sul (UFMS)**.  
-🔍 Sempre em busca de **novos desafios** e **oportunidades** para aprender e crescer na área de tecnologia.  
 
 ### 🛠️ Tecnologias e Ferramentas:
 Aqui estão algumas das tecnologias e ferramentas que tenho trabalhado:
