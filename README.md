@@ -1,7 +1,3 @@
-
-### 💭 Sobre Mim: 
-🎓 Estudante de **Engenharia de Software** na **Universidade Federal de Mato Grosso do Sul (UFMS)**.  
-
 ### Tecnologias e Ferramentas:
  
 <img 
