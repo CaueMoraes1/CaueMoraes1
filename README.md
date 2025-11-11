@@ -13,11 +13,8 @@ Aqui estão alguns dos projetos que colaborei e atuei como desenvolvedor:
 **[Transcornea Custos (Desenvolvedor FullStack e Gerente de Projeto)](https://github.com/TRANSCORNEA)**
 
 - Concepção, levantamento de requisitos e o gerenciamento técnico de ponta a ponta de um sistema web de gerenciamento de custos para o processo de transplante de córneas nos hospitais de Campo Gramde.
-
 - Frontend: Desenvolvido como Single Page Application (SPA) em React e TypeScript, com foco em componentes reutilizáveis e no padrão arquitetural ViewContainer.
-
 - Backend: API construída com NestJS (TypeScript), seguindo o padrão Controller-Service-Repository.
-
 - Arquitetura: Modelada utilizando o C4 Model.
 
  **[FacilitaAi](https://github.com/PET-Sistemas/facilita-ai-project/tree/main)** 
