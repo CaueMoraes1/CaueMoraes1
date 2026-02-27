@@ -10,7 +10,7 @@
 ###  Projetos em Destaque:
 Aqui estão alguns dos projetos que colaborei e atuei como desenvolvedor:
 
-**[Transcornea Custos (Desenvolvedor FullStack e Gerente de Projeto)](https://github.com/TRANSCORNEA)**
+**[Transcornea Custos (Desenvolvedor FullStack e Gerente de Projeto)](https://transcorneacustos.com.br/)**
 
 - Concepção, levantamento de requisitos e o gerenciamento técnico de ponta a ponta de um sistema web de gerenciamento de custos para o processo de transplante de córneas nos hospitais de Campo Gramde.
 - Frontend: Desenvolvido como Single Page Application (SPA) em React e TypeScript, com foco em componentes reutilizáveis e no padrão arquitetural ViewContainer.
