@@ -26,6 +26,6 @@ Aqui estão alguns dos projetos que colaborei e atuei como desenvolvedor:
 
 
 **Como me encontrar:**
-- 📧 **E-mail:** [cauemor@gmail.com](mailto:cauemor@gmail.com)  
+- 📧 **E-mail:** [caue.moraes.almeida@gmail.com](mailto:caue.moraes.almeida@gmail.com)  
 - 🔗 **LinkedIn:** (https://www.linkedin.com/in/caue-moraes-de-almeida/)  
 
